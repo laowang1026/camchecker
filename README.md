@@ -1,6 +1,6 @@
 # camchecker
 
-Tool for Reconnaissance on a webcam.
+Tool for Reconnaissance on a webcam (python3).
 
 ### Use
 
